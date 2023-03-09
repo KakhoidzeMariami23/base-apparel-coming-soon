@@ -122,7 +122,7 @@ form p{
 main{
 display: flex;
 flex-direction: row-reverse;
-background-image: url(images/bg-pattern-desktop.svg);
+background-image: url(bg-pattern-desktop.svg);
 background-color: linear-gradient(221.42deg, #FFF1F1 2.6%, #FFFFFF 96.36%);
 }
 
